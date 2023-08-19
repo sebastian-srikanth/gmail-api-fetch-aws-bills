@@ -1,0 +1,5 @@
+Service|charges($)|gst($)|total($)
+Amazon Simple Storage Service|3.23|0.58|3.81
+AWS Data Transfer|0.00|0.00|0.00
+Amazon S3 Glacier Deep Archive|0.01|0.00|0.01
+AmazonCloudWatch|0.00|0.00|0.00

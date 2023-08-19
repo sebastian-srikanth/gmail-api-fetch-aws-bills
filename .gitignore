@@ -1,0 +1,5 @@
+token files
+client-secret.json
+__pycache__
+.DS_Store
+output/*.pdf
